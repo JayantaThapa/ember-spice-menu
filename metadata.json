@@ -1,0 +1,6 @@
+{
+  "name": "EMBER & SPICE",
+  "description": "Authentic flavours. Made fresh. Mobile-first digital menu and WhatsApp ordering experience for EMBER & SPICE.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
